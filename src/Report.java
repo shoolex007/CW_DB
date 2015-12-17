@@ -1,6 +1,4 @@
-/**
- * Created by Oleksandr on 28.11.2015.
- */
+
 public class Report {
     private int emergencyId;
     private Date date;
@@ -12,6 +10,7 @@ public class Report {
         this.date = date;
         this.radiation = radiation;
         this.info = info;
+        //lsd
     }
 
     public int getEmergencyId() {
